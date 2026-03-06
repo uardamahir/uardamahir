@@ -8,7 +8,7 @@ Exploring how systems communicate and work at the foundational level, and how co
 ---
 
 ## 💻 Skills / Yetenekler / Fähigkeiten
-HTML | CSS | JavaScript | React | Node.js | Express | MongoDB  
+- HTML | CSS | JavaScript | React | Node.js | Express | MongoDB  
 
 ---
 
