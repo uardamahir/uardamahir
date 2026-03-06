@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Arda 👋
 
-<!--
-**uardamahir/uardamahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate | Aspiring Full-Stack Web Developer  
 
-Here are some ideas to get you started:
+Building full-stack web projects, learning algorithms.  
+Exploring how systems communicate and work at the foundational level, and how code, system design, and user interactions shape each other.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills / Yetenekler / Fähigkeiten
+HTML | CSS | JavaScript | React | Node.js | Express | MongoDB  
+
+---
+
+## 🎓 Education / Eğitim / Ausbildung
+- **B.Sc. in Computer Science** – (CS Undergraduate Degree)  
+- **M.A. in Philosophy** – (Philosophy Master’s Degree)  
+
+---
+
+## 🌐 Languages / Diller / Sprachen
+- 🇹🇷 Türkçe  
+- 🇬🇧 English – Fluent  
+- 🇩🇪 Deutsch – Conversational  
+
+---
+
+## 🌱 Interests / İlgi Alanları / Interessen
+Web Development, Programming, Philosophy, Music Production  
+
+---
+
+## 📫 Contact / İletişim / Kontakt
+- uardamahir@gmail.com
