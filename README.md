@@ -19,9 +19,9 @@ Exploring how systems communicate and work at the foundational level, and how co
 ---
 
 ## 🌐 Languages / Diller / Sprachen
-- 🇹🇷 Türkçe  
-- 🇬🇧 English – Fluent  
-- 🇩🇪 Deutsch – Conversational  
+- Türkçe  
+- English – Fluent  
+- Deutsch – Conversational  
 
 ---
 
