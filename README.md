@@ -26,7 +26,7 @@ Exploring how systems communicate and work at the foundational level, and how co
 ---
 
 ## 🌱 Interests / İlgi Alanları / Interessen
-Web Development | Programming | Philosophy | Music Production  
+- Web Development | Programming | Philosophy | Music Production  
 
 ---
 
