@@ -2,9 +2,9 @@
 
 Computer Science graduate | Aspiring Full-Stack Web Developer  | Aspiring Game Developer
 
-Building full-stack web projects, learning algorithms.
-Building my first game on Godot 4 Engine. Check out my "THE GAME" repesitory to see what I've done so far.
-Exploring how systems communicate and work at the foundational level, and how code, system design, and user interactions shape each other.
+- Building full-stack web projects, learning algorithms.
+- Building my first game on Godot 4 Engine. Check out my "THE GAME" repesitory to see what I've done so far.
+- Exploring how systems communicate and work at the foundational level, and how code, system design, and user interactions shape each other.
 
 ---
 
