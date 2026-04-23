@@ -10,7 +10,7 @@ Computer Science graduate | Aspiring Full-Stack Web Developer  | Aspiring Game D
 
 ## 💻 Skills / Yetenekler / Fähigkeiten
 - WEB -> HTML | CSS | JavaScript | React | Node.js | Express | MongoDB  
-- GAME -> C# | GDScript | Fl Studio | Kritaf
+- GAME -> C# | GDScript | Fl Studio | Krita
 ---
 
 ## 🎓 Education / Eğitim / Ausbildung
