@@ -1,6 +1,6 @@
 # Hi, I'm Arda 👋
 
-Computer Science graduate | Aspiring Full-Stack Web Developer
+Computer Science Graduate | Aspiring Full-Stack Web Developer
 
 - Building full-stack web projects, learning algorithms.
 - Exploring how systems communicate and work at the foundational level, and how code, system design, and user interactions shape each other.
